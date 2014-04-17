@@ -1,0 +1,9 @@
+{
+	"routeNo":1,
+	"stopList":[
+			{"stopNo": 1},
+			{"stopNo": 2},
+			{"stopNo": 3},
+			{"stopNo": 4}
+			]
+}
